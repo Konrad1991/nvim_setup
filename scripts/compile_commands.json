@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/home/konrad/Documents/GitHub/RProjects/etr_supplement",
+    "command": "clang++ -std=c++20 -DSTANDALONE_ETR./ETR/tests/BaseStore_Tests.cpp",
+    "file": "./ETR/tests/BaseStore_Tests.cpp"
+  }
+]
